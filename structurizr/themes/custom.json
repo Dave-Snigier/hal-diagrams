@@ -17,6 +17,10 @@
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-server-icon.svg"
     },
     {
+      "tag": "OS - Windows Server 2022 - Logo",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-server-2022.svg"
+    },
+    {
       "tag": "OS - Windows Server 2019",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-server-icon.svg"
     },
