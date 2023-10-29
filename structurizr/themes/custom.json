@@ -4,7 +4,7 @@
   "elements": [
     {
       "tag": "OS - Oracle Linux 7",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-oracle-linux-wordmark.svg",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-oracle-linux-icon.svg",
       "height": 300,
       "width": 300
     },
