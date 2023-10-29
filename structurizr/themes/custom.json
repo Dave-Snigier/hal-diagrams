@@ -3,16 +3,22 @@
   "description": "This theme includes icons not found in other sets.",
   "elements": [
     {
-      "tag": "Oracle Linux",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-tux-icon.svg"
+      "tag": "Operating System - Oracle Linux 7",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-oracle-linux-wordmark.svg",
+      "height": 300,
+      "width": 300
     },
     {
-      "tag": "Amazon Linux",
+      "tag": "Operating System - Amazon Linux",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon-lowres.png"
     },
     {
-      "tag": "Microsoft Windows",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-icon.svg"
+      "tag": "OS - Windows Server 2022",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-server-icon.svg"
+    },
+    {
+      "tag": "OS - Windows Server 2019",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-server-icon.svg"
     },
     {
       "tag": "Experian Data Quality",
