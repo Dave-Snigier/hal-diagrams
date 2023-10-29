@@ -4,9 +4,11 @@
   "elements": [
     {
       "tag": "OS - Oracle Linux 7",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-oracle-linux-icon.svg",
-      "height": 300,
-      "width": 300
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
+    },
+    {
+      "tag": "OS - Oracle Linux 8",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
     },
     {
       "tag": "OS - Amazon Linux 2",
