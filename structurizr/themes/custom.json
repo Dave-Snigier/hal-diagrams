@@ -1,0 +1,22 @@
+{
+  "name": "HAL Diagrams - Custom",
+  "description": "This theme includes icons not found in other sets.",
+  "elements": [
+    {
+      "tag": "Oracle Linux",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-tux-icon.svg"
+    },
+    {
+      "tag": "Amazon Linux",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon-lowres.png"
+    },
+    {
+      "tag": "Microsoft Windows",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-microsoft-windows-icon.svg"
+    },
+    {
+      "tag": "Experian Data Quality",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/server/experian-data-quality.jpeg"
+    }
+  ]
+}
