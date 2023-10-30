@@ -43,8 +43,20 @@
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/bash-icon.svg"
     },
     {
-      "tag": "Shell - ZSH",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/zsh.svg"
+      "tag": "Logo - Anthology",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/anthology.svg"
+    },
+    {
+      "tag": "Logo - EverTrue",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/evertrue.svg"
+    },
+    {
+      "tag": "Logo - Gravyty",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/gravyty-logo.svg"
+    },
+    {
+      "tag": "Logo - Ruffalo Noel Levitz",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/ruffalo-noel-levitz-logo-icon.svg"
     }
   ]
 }
