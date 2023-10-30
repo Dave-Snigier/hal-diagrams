@@ -65,6 +65,10 @@
     {
       "tag": "Logo - Akamai",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/akamai.svg"
+    },
+    {
+      "tag": "Logo - Postfix",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/postfix.svg"
     }
   ]
 }
