@@ -73,6 +73,10 @@
     {
       "tag": "Logo - Postfix",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/postfix.svg"
+    },
+    {
+      "tag": "Logo - Blackbaud",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/blackbaud.svg"
     }
   ]
 }
