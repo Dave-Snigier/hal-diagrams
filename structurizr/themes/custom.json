@@ -77,6 +77,14 @@
     {
       "tag": "Logo - Blackbaud",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/blackbaud.svg"
+    },
+    {
+      "tag": "Logo - Tableau",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/tableau.svg"
+    },
+    {
+      "tag": "Icon - Tableau",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/tableau-icon.svg"
     }
   ]
 }
