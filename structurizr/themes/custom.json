@@ -37,6 +37,14 @@
     {
       "tag": "Database - Oracle Database",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
+    },
+    {
+      "tag": "Shell - Bash",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/bash-icon.svg"
+    },
+    {
+      "tag": "Shell - ZSH",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/shell/zsh.svg"
     }
   ]
 }
