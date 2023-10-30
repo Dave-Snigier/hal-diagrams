@@ -11,12 +11,12 @@
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
     },
     {
-      "tag": "OS - Amazon Linux 2",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon-lowres.png"
+      "tag": "Icon - Amazon Linux 2",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon.png"
     },
     {
-      "tag": "OS - Amazon Linux 2023",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon-lowres.png"
+      "tag": "Icon - Amazon Linux 2023",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/os/os-linux-amazon-linux-icon.png"
     },
     {
       "tag": "OS - Windows Server 2022",
@@ -85,6 +85,10 @@
     {
       "tag": "Icon - Tableau",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/tableau-icon.svg"
+    },
+    {
+      "tag": "Icon - Microsoft IIS",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/microsoft-iis.png"
     }
   ]
 }
