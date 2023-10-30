@@ -57,6 +57,14 @@
     {
       "tag": "Logo - Ruffalo Noel Levitz",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/ruffalo_noel_levitz-icon.png"
+    },
+    {
+      "tag": "Logo - Salesforce Marketing Cloud",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/salesforce-marketing-cloud.png"
+    },
+    {
+      "tag": "Logo - Akamai",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/akamai.svg"
     }
   ]
 }
