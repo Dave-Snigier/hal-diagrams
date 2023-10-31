@@ -89,6 +89,38 @@
     {
       "tag": "Icon - Microsoft IIS",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/microsoft-iis.png"
+    },
+    {
+      "tag": "Logo - Boomi",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-logo-white.svg"
+    },
+    {
+      "tag": "Icon - Boomi",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-logo-icon.svg"
+    },
+    {
+      "tag": "Icon - Boomi Platform - Integration",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-integration-icon.png"
+    },
+    {
+      "tag": "Icon - Boomi Platform - B2B/EDI",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-b2b-edi-icon.png"
+    },
+    {
+      "tag": "Icon - Boomi Platform - API Management",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-api-management-icon.png"
+    },
+    {
+      "tag": "Icon - Boomi Platform - Master Data Hub",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-master-data-hub-icon.png"
+    },
+    {
+      "tag": "Icon - Boomi Platform - Flow",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-flow-icon.png"
+    },
+    {
+      "tag": "Icon - Boomi Platform - Data Catalog",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-data-catalog-icon.png"
     }
   ]
 }
