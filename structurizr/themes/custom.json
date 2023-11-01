@@ -125,6 +125,30 @@
     {
       "tag": "Icon - Java",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/java.svg"
+    },
+    {
+      "tag": "Icon - oVirt",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/ovirt-icon.svg"
+    },
+    {
+      "tag": "Logo - oVirt - Green",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/ovirt-logo-green.svg"
+    },
+    {
+      "tag": "Logo - oVirt - Black",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/ovirt-logo-black.svg"
+    },
+    {
+      "tag": "Logo - oVirt",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/ovirt-logo.svg"
+    },
+    {
+      "tag": "Logo - KVM",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/kvm.png"
+    },
+    {
+      "tag": "Icon - KVM",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/kvm-icon.png"
     }
   ]
 }
