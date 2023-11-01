@@ -121,6 +121,10 @@
     {
       "tag": "Icon - Boomi Platform - Data Catalog",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-platform-data-catalog-icon.png"
+    },
+    {
+      "tag": "Icon - Java",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/java.svg"
     }
   ]
 }
