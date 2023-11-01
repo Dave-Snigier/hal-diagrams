@@ -3,12 +3,12 @@
   "description": "This theme includes icons not found in other sets.",
   "elements": [
     {
-      "tag": "OS - Oracle Linux 7",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
+      "tag": "Icon - Oracle Linux 7",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-linux-tux-icon.png"
     },
     {
-      "tag": "OS - Oracle Linux 8",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-logo-icon.svg"
+      "tag": "Icon - Oracle Linux 8",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/oracle-linux-tux-icon.png"
     },
     {
       "tag": "Icon - Amazon Linux 2",
