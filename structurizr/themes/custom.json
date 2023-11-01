@@ -149,6 +149,30 @@
     {
       "tag": "Icon - KVM",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/kvm-icon.png"
+    },
+    {
+      "tag": "Storage - NFS",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/8/85/Human-folder-remote-nfs.svg"
+    },
+    {
+      "tag": "Storage - Local",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Human-folder.svg"
+    },
+    {
+      "tag": "Storage - SSH",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/64/Human-folder-remote-ssh.svg"
+    },
+    {
+      "tag": "Storage - FTP",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Human-folder-remote-ftp.svg"
+    },
+    {
+      "tag": "Storage - SMB/CIFS",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Human-gnome-fs-smb.svg"
+    },
+    {
+      "tag": "Storage - Network",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/06/Human-folder-remote.svg"
     }
   ]
 }
