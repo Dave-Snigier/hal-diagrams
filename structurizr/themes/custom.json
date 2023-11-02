@@ -180,7 +180,7 @@
     },
     {
       "tag": "Logo - CheckPoint",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/checkpoint.png"
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/checkpoint.svg"
     },
     {
       "tag": "Icon - CheckPoint",
@@ -188,7 +188,7 @@
     },
     {
       "tag": "Logo - Isilon",
-      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/isilon-logo.png"
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/isilon-logo.svg"
     }
   ]
 }
