@@ -173,6 +173,22 @@
     {
       "tag": "Storage - Network",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/0/06/Human-folder-remote.svg"
+    },
+    {
+      "tag": "Logo - Netscaler",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/netscaler.png"
+    },
+    {
+      "tag": "Logo - CheckPoint",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/checkpoint.png"
+    },
+    {
+      "tag": "Icon - CheckPoint",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/checkpoint-icon.png"
+    },
+    {
+      "tag": "Icon - Isilon",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/isilon-logo.png"
     }
   ]
 }
