@@ -221,6 +221,14 @@
     {
       "tag": "Logo - Dell",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell.svg"
+    },
+    {
+      "tag": "Logo - jgroups",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/jgroups.png"
+    },
+    {
+      "tag": "Icon - jgroups",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/jgroups-icon.png"
     }
   ]
 }
