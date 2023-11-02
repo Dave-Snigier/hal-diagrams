@@ -189,6 +189,38 @@
     {
       "tag": "Logo - Isilon",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/isilon-logo.svg"
+    },
+    {
+      "tag": "Icon - Isilon",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/isilon-icon.png"
+    },
+    {
+      "tag": "Logo - Logrhythm",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/logrhythm.svg"
+    },
+    {
+      "tag": "Icon - Logrhythm",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/logrhythm-icon.svg"
+    },
+    {
+      "tag": "Logo - Dell EMC",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell-emc.svg"
+    },
+    {
+      "tag": "Icon - Dell EMC",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell-emc-icon.svg"
+    },
+    {
+      "tag": "Logo - Dell Technologies",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell-technologies.svg"
+    },
+    {
+      "tag": "Icon - Dell",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell-icon.svg"
+    },
+    {
+      "tag": "Logo - Dell",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/company/dell.svg"
     }
   ]
 }
