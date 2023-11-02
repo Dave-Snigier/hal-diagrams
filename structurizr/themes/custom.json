@@ -91,8 +91,12 @@
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/microsoft-iis.png"
     },
     {
-      "tag": "Logo - Boomi",
+      "tag": "Logo - Boomi - White",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/boomi-logo-white.svg"
+    },
+    {
+      "tag": "Logo - Boomi",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/Boomi-logo-no-tagline.svg"
     },
     {
       "tag": "Icon - Boomi",
