@@ -1,0 +1,14 @@
+{
+  "name": "RedHat Networking Icons",
+  "description": "Open Source icons from Ansible Automation platform.",
+  "elements": [
+    {
+      "tag": "RedHat Networking - Firewall",
+      "icon": "https://gitlab.com/axiansdeveloper/networking-icons/-/raw/95dec1068f9ea5000bc4c5dbda0ba043f14b6eb3/firewall/firewall_red.svg"
+    },
+    {
+      "tag": "RedHat Networking - Firewall - Local",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/sets/redhat-networking-icons/firewall_red.svg"
+    }
+  ]
+}
