@@ -26,12 +26,19 @@
     {
       "tag": "Person",
       "stroke": "#08427b",
-      "strokeWidth": 10,
-      "shape": "Person"
+      "strokeWidth": 10
     },
     {
       "tag": "Infrastructure Node",
       "background": "#ffffff"
+    },
+    {
+      "tag": "Folder",
+      "shape": "Folder"
+    },
+    {
+      "tag": "Database Schema",
+      "background": "Cylinder"
     }
   ]
 }
