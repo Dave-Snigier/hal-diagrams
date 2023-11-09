@@ -1,0 +1,37 @@
+{
+  "name": "Default - C4 Light",
+  "description": "C4 defautl theme colors with white backgrounds.",
+  "elements": [
+    {
+      "tag": "Element",
+      "shape": "RoundedBox",
+      "background": "#ffffff",
+      "color": "#000000"
+    },
+    {
+      "tag": "Software System",
+      "stroke": "#1168bd",
+      "strokeWidth": 10
+    },
+    {
+      "tag": "Container",
+      "stroke": "#438dd5",
+      "strokeWidth": 8
+    },
+    {
+      "tag": "Component",
+      "stroke": "#85bbf0",
+      "strokeWidth": 6
+    },
+    {
+      "tag": "Person",
+      "stroke": "#08427b",
+      "strokeWidth": 10,
+      "shape": "Person"
+    },
+    {
+      "tag": "Infrastructure Node",
+      "background": "#ffffff"
+    }
+  ]
+}
