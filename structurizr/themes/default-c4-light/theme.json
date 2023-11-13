@@ -38,7 +38,7 @@
     },
     {
       "tag": "Database Schema",
-      "background": "Cylinder"
+      "shape": "Cylinder"
     }
   ]
 }
