@@ -3,6 +3,10 @@
   "description": "A custom theme for Structurizr",
   "elements": [
     {
+      "tag": "AWS/Region",
+      "icon": "Region.png"
+    },
+    {
       "tag": "AWS/Account",
       "icon": "Account.png"
     },
@@ -11,16 +15,12 @@
       "icon": "VPC.png"
     },
     {
-      "tag": "AWS/VPC Public Subnet",
-      "icon": "VPC-Public-Subnet.png"
-    },
-    {
-      "tag": "AWS/Region",
-      "icon": "Region.png"
-    },
-    {
       "tag": "AWS/VPC Private Subnet",
       "icon": "VPC-Private-Subnet.png"
+    },
+    {
+      "tag": "AWS/VPC Public Subnet",
+      "icon": "VPC-Public-Subnet.png"
     }
   ]
 }
