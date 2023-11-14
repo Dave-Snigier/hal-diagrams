@@ -1,0 +1,26 @@
+{
+  "name": "Custom Structurizr Theme",
+  "description": "A custom theme for Structurizr",
+  "elements": [
+    {
+      "tag": "Logo/aws vpc subnet public icon",
+      "icon": "aws-vpc-subnet-public-icon.png"
+    },
+    {
+      "tag": "Logo/aws vpc subnet private icon",
+      "icon": "aws-vpc-subnet-private-icon.png"
+    },
+    {
+      "tag": "Logo/aws region icon",
+      "icon": "aws-region-icon.png"
+    },
+    {
+      "tag": "Logo/aws account icon",
+      "icon": "aws-account-icon.png"
+    },
+    {
+      "tag": "Logo/aws vpc icon",
+      "icon": "aws-vpc-icon.png"
+    }
+  ]
+}
