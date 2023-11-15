@@ -233,6 +233,10 @@
     {
       "tag": "Icon - jgroups",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/jgroups-icon.png"
+    },
+    {
+      "tag": "Java JMS",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/Java-JMS.png"
     }
   ]
 }
