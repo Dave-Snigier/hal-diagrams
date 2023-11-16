@@ -1,3 +1,7 @@
 
 # macOS ignored files
 .DS_Store
+
+# Python
+# Virtual Environments
+venv
