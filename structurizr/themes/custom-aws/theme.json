@@ -3,24 +3,40 @@
   "description": "A custom theme for Structurizr",
   "elements": [
     {
+      "tag": "AWS/Auto-Scaling Group",
+      "icon": "Auto-Scaling_Group.png"
+    },
+    {
       "tag": "AWS/Region",
       "icon": "Region.png"
+    },
+    {
+      "tag": "AWS/VPC Private Subnet",
+      "icon": "VPC_Private_Subnet.png"
+    },
+    {
+      "tag": "AWS/Server Contents",
+      "icon": "Server_Contents.png"
     },
     {
       "tag": "AWS/Account",
       "icon": "Account.png"
     },
     {
+      "tag": "AWS/Data Center",
+      "icon": "Data_Center.png"
+    },
+    {
+      "tag": "AWS/VPC Public Subnet",
+      "icon": "VPC_Public_Subnet.png"
+    },
+    {
       "tag": "AWS/VPC",
       "icon": "VPC.png"
     },
     {
-      "tag": "AWS/VPC Private Subnet",
-      "icon": "VPC-Private-Subnet.png"
-    },
-    {
-      "tag": "AWS/VPC Public Subnet",
-      "icon": "VPC-Public-Subnet.png"
+      "tag": "AWS/EC2 Instance Contents",
+      "icon": "EC2_Instance_Contents.png"
     }
   ]
 }
