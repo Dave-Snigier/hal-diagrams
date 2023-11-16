@@ -237,6 +237,10 @@
     {
       "tag": "Java JMS",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/Java-JMS.png"
+    },
+    {
+      "tag": "SmartBear AlertSite",
+      "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/custom/software/SmartBear_AlertSite.svg"
     }
   ]
 }

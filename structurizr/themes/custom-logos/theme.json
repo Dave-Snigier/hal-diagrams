@@ -1,0 +1,110 @@
+{
+  "name": "Custom Structurizr Theme",
+  "description": "A custom theme for Structurizr",
+  "elements": [
+    {
+      "tag": "Logo - oracle logo icon",
+      "icon": "oracle-logo-icon.png"
+    },
+    {
+      "tag": "Logo - oracle logo",
+      "icon": "oracle-logo.png"
+    },
+    {
+      "tag": "Logo - akamai",
+      "icon": "akamai.png"
+    },
+    {
+      "tag": "Logo - tableau icon",
+      "icon": "tableau-icon.png"
+    },
+    {
+      "tag": "Logo - microsoft icon",
+      "icon": "microsoft-icon.png"
+    },
+    {
+      "tag": "Logo - anthology",
+      "icon": "anthology.png"
+    },
+    {
+      "tag": "Logo - tableau",
+      "icon": "tableau.png"
+    },
+    {
+      "tag": "Logo - obsidian",
+      "icon": "obsidian.png"
+    },
+    {
+      "tag": "Logo - microsoft",
+      "icon": "microsoft.png"
+    },
+    {
+      "tag": "Logo - anthology icon",
+      "icon": "anthology-icon.png"
+    },
+    {
+      "tag": "Logo - logrhythm",
+      "icon": "logrhythm.png"
+    },
+    {
+      "tag": "Logo - gravyty",
+      "icon": "gravyty.png"
+    },
+    {
+      "tag": "Logo - dell emc",
+      "icon": "dell-emc.png"
+    },
+    {
+      "tag": "Logo - tenable logo icon",
+      "icon": "tenable-logo-icon.png"
+    },
+    {
+      "tag": "Logo - logrhythm icon",
+      "icon": "logrhythm-icon.png"
+    },
+    {
+      "tag": "Logo - dell black",
+      "icon": "dell-black.png"
+    },
+    {
+      "tag": "Logo - dell technologies",
+      "icon": "dell-technologies.png"
+    },
+    {
+      "tag": "Logo - blackbaud",
+      "icon": "blackbaud.png"
+    },
+    {
+      "tag": "Logo - tenable logo",
+      "icon": "tenable-logo.png"
+    },
+    {
+      "tag": "Logo - evertrue",
+      "icon": "evertrue.png"
+    },
+    {
+      "tag": "Logo - tableau logo",
+      "icon": "tableau-logo.png"
+    },
+    {
+      "tag": "Logo - emc wordmark",
+      "icon": "emc-wordmark.png"
+    },
+    {
+      "tag": "Logo - dell",
+      "icon": "dell.png"
+    },
+    {
+      "tag": "Logo - firefox",
+      "icon": "firefox.png"
+    },
+    {
+      "tag": "Logo - emc",
+      "icon": "emc.png"
+    },
+    {
+      "tag": "Logo - dell icon",
+      "icon": "dell-icon.png"
+    }
+  ]
+}
