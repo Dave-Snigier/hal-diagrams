@@ -3,159 +3,215 @@
   "description": "A custom theme for Structurizr",
   "elements": [
     {
-      "tag": "Logo/Oracle+icon",
-      "icon": "Oracle+icon.png"
-    },
-    {
-      "tag": "Logo/Oracle",
+      "tag": "logo/Oracle",
       "icon": "Oracle.png"
     },
     {
-      "tag": "Logo/Akamai",
-      "icon": "Akamai.png"
+      "tag": "logo/Vault",
+      "icon": "Vault.png"
     },
     {
-      "tag": "Logo/Boomi+white",
-      "icon": "Boomi+white.png"
-    },
-    {
-      "tag": "Logo/GPG+icon",
-      "icon": "GPG+icon.png"
-    },
-    {
-      "tag": "Logo/AWS",
+      "tag": "logo/AWS",
       "icon": "AWS.png"
     },
     {
-      "tag": "Logo/Anthology+Icon",
-      "icon": "Anthology+Icon.png"
+      "tag": "logo/Boomi+white",
+      "icon": "Boomi+white.png"
     },
     {
-      "tag": "Logo/Microsoft",
+      "tag": "logo/Akamai",
+      "icon": "Akamai.png"
+    },
+    {
+      "tag": "logo/Microsoft",
       "icon": "Microsoft.png"
     },
     {
-      "tag": "Logo/tableau-duplicatemaybedelete",
-      "icon": "tableau-duplicatemaybedelete.png"
-    },
-    {
-      "tag": "Logo/Bash Shell+icon",
-      "icon": "Bash_Shell+icon.png"
-    },
-    {
-      "tag": "Logo/Obsidian",
-      "icon": "Obsidian.png"
-    },
-    {
-      "tag": "Logo/Dell",
+      "tag": "logo/Dell",
       "icon": "Dell.png"
     },
     {
-      "tag": "Logo/EMC+wordmark",
-      "icon": "EMC+wordmark.png"
-    },
-    {
-      "tag": "Logo/Anthology",
+      "tag": "logo/Anthology",
       "icon": "Anthology.png"
     },
     {
-      "tag": "Logo/Logrhythm+icon",
-      "icon": "Logrhythm+icon.png"
+      "tag": "logo/Obsidian",
+      "icon": "Obsidian.png"
     },
     {
-      "tag": "Logo/GPG",
-      "icon": "GPG.png"
-    },
-    {
-      "tag": "Logo/Logrhythm",
+      "tag": "logo/Logrhythm",
       "icon": "Logrhythm.png"
     },
     {
-      "tag": "Logo/Bash Shell",
+      "tag": "logo/EMC+wordmark",
+      "icon": "EMC+wordmark.png"
+    },
+    {
+      "tag": "logo/Oracle Linux",
+      "icon": "Oracle_Linux.png"
+    },
+    {
+      "tag": "logo/tableau-duplicatemaybedelete",
+      "icon": "tableau-duplicatemaybedelete.png"
+    },
+    {
+      "tag": "logo/Oracle PeopleSoft",
+      "icon": "Oracle_PeopleSoft.png"
+    },
+    {
+      "tag": "logo/Windows Server 2019",
+      "icon": "Windows_Server_2019.png"
+    },
+    {
+      "tag": "logo/oVirt",
+      "icon": "oVirt.png"
+    },
+    {
+      "tag": "logo/Bash Shell",
       "icon": "Bash_Shell.png"
     },
     {
-      "tag": "Logo/Blackbaud",
-      "icon": "Blackbaud.png"
+      "tag": "logo/Logrhythm+icon",
+      "icon": "Logrhythm+icon.png"
     },
     {
-      "tag": "Logo/Boomi",
-      "icon": "Boomi.png"
+      "tag": "logo/oVirt+green",
+      "icon": "oVirt+green.png"
     },
     {
-      "tag": "Logo/Oracle Database",
+      "tag": "logo/GPG",
+      "icon": "GPG.png"
+    },
+    {
+      "tag": "logo/zwave",
+      "icon": "zwave.png"
+    },
+    {
+      "tag": "logo/Oracle Database",
       "icon": "Oracle_Database.png"
     },
     {
-      "tag": "Logo/Tableau+icon",
-      "icon": "Tableau+icon.png"
-    },
-    {
-      "tag": "Logo/Gravyty",
-      "icon": "Gravyty.png"
-    },
-    {
-      "tag": "Logo/Tableau",
+      "tag": "logo/Tableau",
       "icon": "Tableau.png"
     },
     {
-      "tag": "Logo/Microsoft+icon",
-      "icon": "Microsoft+icon.png"
+      "tag": "logo/Terraform",
+      "icon": "Terraform.png"
     },
     {
-      "tag": "Logo/Tenable",
+      "tag": "logo/Tenable",
       "icon": "Tenable.png"
     },
     {
-      "tag": "Logo/Dell EMC",
-      "icon": "Dell_EMC.png"
+      "tag": "logo/Boomi",
+      "icon": "Boomi.png"
     },
     {
-      "tag": "Logo/ZSH Shell",
-      "icon": "ZSH_Shell.png"
+      "tag": "logo/TypeScript",
+      "icon": "TypeScript.png"
     },
     {
-      "tag": "Logo/EMC",
-      "icon": "EMC.png"
+      "tag": "logo/Blackbaud",
+      "icon": "Blackbaud.png"
     },
     {
-      "tag": "Logo/SmartBear AlertSite",
+      "tag": "logo/SmartBear AlertSite",
       "icon": "SmartBear_AlertSite.png"
     },
     {
-      "tag": "Logo/Dell+black",
-      "icon": "Dell+black.png"
+      "tag": "logo/Vagrant",
+      "icon": "Vagrant.png"
     },
     {
-      "tag": "Logo/Evertrue",
-      "icon": "Evertrue.png"
+      "tag": "logo/WIndows Server",
+      "icon": "WIndows_Server.png"
     },
     {
-      "tag": "Logo/Dell Technologies",
-      "icon": "Dell_Technologies.png"
+      "tag": "logo/Windows",
+      "icon": "Windows.png"
     },
     {
-      "tag": "Logo/Evertrue ThankView",
+      "tag": "logo/Gravyty",
+      "icon": "Gravyty.png"
+    },
+    {
+      "tag": "logo/oVirt+black",
+      "icon": "oVirt+black.png"
+    },
+    {
+      "tag": "logo/Oracle PeopleSoft+old",
+      "icon": "Oracle_PeopleSoft+old.png"
+    },
+    {
+      "tag": "logo/Evertrue ThankView",
       "icon": "Evertrue_ThankView.png"
     },
     {
-      "tag": "Logo/Tenable+icon",
+      "tag": "logo/matter",
+      "icon": "matter.png"
+    },
+    {
+      "tag": "logo/ZSH Shell",
+      "icon": "ZSH_Shell.png"
+    },
+    {
+      "tag": "logo/NodeJS",
+      "icon": "NodeJS.png"
+    },
+    {
+      "tag": "logo/EMC",
+      "icon": "EMC.png"
+    },
+    {
+      "tag": "logo/Windows Server 2022",
+      "icon": "Windows_Server_2022.png"
+    },
+    {
+      "tag": "logo/Dell EMC",
+      "icon": "Dell_EMC.png"
+    },
+    {
+      "tag": "logo/Isilon",
+      "icon": "Isilon.png"
+    },
+    {
+      "tag": "logo/CentOS Linux",
+      "icon": "CentOS_Linux.png"
+    },
+    {
+      "tag": "logo/Dell+black",
+      "icon": "Dell+black.png"
+    },
+    {
+      "tag": "logo/Evertrue",
+      "icon": "Evertrue.png"
+    },
+    {
+      "tag": "logo/Dell Technologies",
+      "icon": "Dell_Technologies.png"
+    },
+    {
+      "tag": "logo/Tenable+icon",
       "icon": "Tenable+icon.png"
     },
     {
-      "tag": "Logo/Dell+Icon",
-      "icon": "Dell+Icon.png"
+      "tag": "logo/Windows Server 2016",
+      "icon": "Windows_Server_2016.png"
     },
     {
-      "tag": "Logo/Postfix",
+      "tag": "logo/Windows Server 2012",
+      "icon": "Windows_Server_2012.png"
+    },
+    {
+      "tag": "logo/Postfix",
       "icon": "Postfix.png"
     },
     {
-      "tag": "Logo/Firefox",
+      "tag": "logo/Firefox",
       "icon": "Firefox.png"
     },
     {
-      "tag": "Logo/Checkpoint",
+      "tag": "logo/Checkpoint",
       "icon": "Checkpoint.png"
     }
   ]

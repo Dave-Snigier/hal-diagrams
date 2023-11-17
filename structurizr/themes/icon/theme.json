@@ -1,0 +1,210 @@
+{
+  "name": "Custom Structurizr Theme",
+  "description": "A custom theme for Structurizr",
+  "elements": [
+    {
+      "tag": "icon/Windows Server 2019",
+      "icon": "Windows_Server_2019.png"
+    },
+    {
+      "tag": "icon/CoffeeScript",
+      "icon": "CoffeeScript.png"
+    },
+    {
+      "tag": "icon/Oracle+icon",
+      "icon": "Oracle+icon.png"
+    },
+    {
+      "tag": "icon/Windows Server 2022",
+      "icon": "Windows_Server_2022.png"
+    },
+    {
+      "tag": "icon/FreeBSD",
+      "icon": "FreeBSD.png"
+    },
+    {
+      "tag": "icon/Vault",
+      "icon": "Vault.png"
+    },
+    {
+      "tag": "icon/JSON",
+      "icon": "JSON.png"
+    },
+    {
+      "tag": "icon/GPG+icon",
+      "icon": "GPG+icon.png"
+    },
+    {
+      "tag": "icon/Javascript",
+      "icon": "Javascript.png"
+    },
+    {
+      "tag": "icon/Bash Shell+icon",
+      "icon": "Bash_Shell+icon.png"
+    },
+    {
+      "tag": "icon/GitHub Actions",
+      "icon": "GitHub_Actions.png"
+    },
+    {
+      "tag": "icon/Anthology+Icon",
+      "icon": "Anthology+Icon.png"
+    },
+    {
+      "tag": "icon/Java",
+      "icon": "Java.png"
+    },
+    {
+      "tag": "icon/Windows Server",
+      "icon": "Windows_Server.png"
+    },
+    {
+      "tag": "icon/PHP+alt",
+      "icon": "PHP+alt.png"
+    },
+    {
+      "tag": "icon/Markdown",
+      "icon": "Markdown.png"
+    },
+    {
+      "tag": "icon/Python",
+      "icon": "Python.png"
+    },
+    {
+      "tag": "icon/Bluetooth",
+      "icon": "Bluetooth.png"
+    },
+    {
+      "tag": "icon/NodeJS",
+      "icon": "NodeJS.png"
+    },
+    {
+      "tag": "icon/WebSocket",
+      "icon": "WebSocket.png"
+    },
+    {
+      "tag": "icon/TypeScript+round",
+      "icon": "TypeScript+round.png"
+    },
+    {
+      "tag": "icon/CSS-3+official",
+      "icon": "CSS-3+official.png"
+    },
+    {
+      "tag": "icon/WiFi",
+      "icon": "WiFi.png"
+    },
+    {
+      "tag": "icon/Terraform",
+      "icon": "Terraform.png"
+    },
+    {
+      "tag": "icon/R",
+      "icon": "R.png"
+    },
+    {
+      "tag": "icon/SVG",
+      "icon": "SVG.png"
+    },
+    {
+      "tag": "icon/Debian Linux",
+      "icon": "Debian_Linux.png"
+    },
+    {
+      "tag": "icon/oVirt",
+      "icon": "oVirt.png"
+    },
+    {
+      "tag": "icon/CSS-3",
+      "icon": "CSS-3.png"
+    },
+    {
+      "tag": "icon/Vagrant",
+      "icon": "Vagrant.png"
+    },
+    {
+      "tag": "icon/Ubuntu Linux",
+      "icon": "Ubuntu_Linux.png"
+    },
+    {
+      "tag": "icon/Windows",
+      "icon": "Windows.png"
+    },
+    {
+      "tag": "icon/TypeScript",
+      "icon": "TypeScript.png"
+    },
+    {
+      "tag": "icon/C",
+      "icon": "C.png"
+    },
+    {
+      "tag": "icon/TOML",
+      "icon": "TOML.png"
+    },
+    {
+      "tag": "icon/PHP",
+      "icon": "PHP.png"
+    },
+    {
+      "tag": "icon/C++",
+      "icon": "C++.png"
+    },
+    {
+      "tag": "icon/Microsoft+icon",
+      "icon": "Microsoft+icon.png"
+    },
+    {
+      "tag": "icon/Windows Server 2016",
+      "icon": "Windows_Server_2016.png"
+    },
+    {
+      "tag": "icon/Fedora Linux",
+      "icon": "Fedora_Linux.png"
+    },
+    {
+      "tag": "icon/Linux",
+      "icon": "Linux.png"
+    },
+    {
+      "tag": "icon/HTML 5",
+      "icon": "HTML_5.png"
+    },
+    {
+      "tag": "icon/YAML",
+      "icon": "YAML.png"
+    },
+    {
+      "tag": "icon/Windows Server 2012",
+      "icon": "Windows_Server_2012.png"
+    },
+    {
+      "tag": "icon/Ruby",
+      "icon": "Ruby.png"
+    },
+    {
+      "tag": "icon/Matter",
+      "icon": "Matter.png"
+    },
+    {
+      "tag": "icon/Go",
+      "icon": "Go.png"
+    },
+    {
+      "tag": "icon/Tableau+icon",
+      "icon": "Tableau+icon.png"
+    },
+    {
+      "tag": "icon/CentOS Linux",
+      "icon": "CentOS_Linux.png"
+    },
+    {
+      "tag": "icon/Go+gopher",
+      "icon": "Go+gopher.png"
+    },
+    {
+      "tag": "icon/Dell+Icon",
+      "icon": "Dell+Icon.png"
+    }
+  ]
+}
