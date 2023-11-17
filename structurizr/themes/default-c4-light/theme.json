@@ -30,7 +30,9 @@
     },
     {
       "tag": "Infrastructure Node",
-      "background": "#ffffff"
+      "background": "#ffffff",
+      "stoke": "#A9A9A9",
+      "strokeWidth": 8
     },
     {
       "tag": "Folder",
