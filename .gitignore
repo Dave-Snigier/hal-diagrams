@@ -5,3 +5,7 @@
 # Python
 # Virtual Environments
 venv
+
+
+# ignore old folders
+old/
