@@ -48,19 +48,19 @@
     },
     {
       "tag": "OS/Windows Server 2019",
-      "icon": "Windows_Server_2019.png"
+      "icon": "Windows_Server+icon.png"
     },
     {
       "tag": "OS/Windows Server 2016",
-      "icon": "Windows_Server_2016.png"
+      "icon": "Windows_Server+icon.png"
     },
     {
       "tag": "OS/Windows Server 2012",
-      "icon": "Windows_Server_2012.png"
+      "icon": "Windows_Server+icon.png"
     },
     {
       "tag": "OS/Windows Server 2022",
-      "icon": "Windows_Server_2022.png"
+      "icon": "Windows_Server+icon.png"
     },
     {
       "tag": "OS/Linux",
