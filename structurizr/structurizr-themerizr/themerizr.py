@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import click
 import cairosvg
 from PIL import Image
-from pprint import pprint
+# from pprint import pprint
 
 
 def convert_svg_to_png(
@@ -55,6 +55,21 @@ def convert_svg_to_png(
 #         output_height=height,
 #         output_width=width,
 #     )
+
+
+def process_png_files(source: str, target: str, files: List[str]) -> List[str]:
+    """
+    copies PNG files from source to target directory and returns a list of filenames.
+    """
+    processed_files = []
+
+    for png_file in files:
+        source_filepath = os.path.join(source, png_file)
+        target_filepath = os.path.join(target, png_file)
+        os.system(f"cp {source_filepath} {target_filepath}")
+        processed_files.append(png_file)
+
+    return processed_files
 
 
 def create_theme_json(target: str, prefix: str, image_files: List[str]) -> None:
@@ -142,11 +157,17 @@ def convert(source: str, target: str, height: int, width: int, prefix: str) -> N
         os.makedirs(target)
 
     svg_files = [f for f in os.listdir(source) if f.endswith(".svg")]
+    png_files = [f for f in os.listdir(source) if f.endswith(".png")]
+
+    png_processed_files = process_png_files(source, target, png_files)
 
     converted_files = convert_images_concurrently(
         source, target, height, width, svg_files
     )
-    create_theme_json(target, prefix, converted_files)
+
+    all_files = png_processed_files + converted_files
+
+    create_theme_json(target, prefix, all_files)
 
     click.echo(
         f"Conversion complete. PNG files and theme.json are saved in '{target}'."
