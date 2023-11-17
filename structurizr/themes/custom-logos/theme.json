@@ -3,108 +3,108 @@
   "description": "A custom theme for Structurizr",
   "elements": [
     {
-      "tag": "Logo - oracle logo icon",
-      "icon": "oracle-logo-icon.png"
+      "tag": "Logo/Oracle+icon",
+      "icon": "Oracle+icon.png"
     },
     {
-      "tag": "Logo - oracle logo",
-      "icon": "oracle-logo.png"
+      "tag": "Logo/Obsidian",
+      "icon": "Obsidian.png"
     },
     {
-      "tag": "Logo - akamai",
-      "icon": "akamai.png"
+      "tag": "Logo/Logrhythm+icon",
+      "icon": "Logrhythm+icon.png"
     },
     {
-      "tag": "Logo - tableau icon",
-      "icon": "tableau-icon.png"
+      "tag": "Logo/Microsoft",
+      "icon": "Microsoft.png"
     },
     {
-      "tag": "Logo - microsoft icon",
-      "icon": "microsoft-icon.png"
+      "tag": "Logo/Anthology+Icon",
+      "icon": "Anthology+Icon.png"
     },
     {
-      "tag": "Logo - anthology",
-      "icon": "anthology.png"
+      "tag": "Logo/tableau-duplicatemaybedelete",
+      "icon": "tableau-duplicatemaybedelete.png"
     },
     {
-      "tag": "Logo - tableau",
-      "icon": "tableau.png"
+      "tag": "Logo/Oracle",
+      "icon": "Oracle.png"
     },
     {
-      "tag": "Logo - obsidian",
-      "icon": "obsidian.png"
+      "tag": "Logo/Akamai",
+      "icon": "Akamai.png"
     },
     {
-      "tag": "Logo - microsoft",
-      "icon": "microsoft.png"
+      "tag": "Logo/Microsoft+icon",
+      "icon": "Microsoft+icon.png"
     },
     {
-      "tag": "Logo - anthology icon",
-      "icon": "anthology-icon.png"
+      "tag": "Logo/Anthology",
+      "icon": "Anthology.png"
     },
     {
-      "tag": "Logo - logrhythm",
-      "icon": "logrhythm.png"
+      "tag": "Logo/Gravyty",
+      "icon": "Gravyty.png"
     },
     {
-      "tag": "Logo - gravyty",
-      "icon": "gravyty.png"
+      "tag": "Logo/Tableau+icon",
+      "icon": "Tableau+icon.png"
     },
     {
-      "tag": "Logo - dell emc",
-      "icon": "dell-emc.png"
+      "tag": "Logo/Tenable",
+      "icon": "Tenable.png"
     },
     {
-      "tag": "Logo - tenable logo icon",
-      "icon": "tenable-logo-icon.png"
+      "tag": "Logo/Blackbaud",
+      "icon": "Blackbaud.png"
     },
     {
-      "tag": "Logo - logrhythm icon",
-      "icon": "logrhythm-icon.png"
+      "tag": "Logo/Dell EMC",
+      "icon": "Dell_EMC.png"
     },
     {
-      "tag": "Logo - dell black",
-      "icon": "dell-black.png"
+      "tag": "Logo/Logrhythm",
+      "icon": "Logrhythm.png"
     },
     {
-      "tag": "Logo - dell technologies",
-      "icon": "dell-technologies.png"
+      "tag": "Logo/Evertrue",
+      "icon": "Evertrue.png"
     },
     {
-      "tag": "Logo - blackbaud",
-      "icon": "blackbaud.png"
+      "tag": "Logo/Tableau",
+      "icon": "Tableau.png"
     },
     {
-      "tag": "Logo - tenable logo",
-      "icon": "tenable-logo.png"
+      "tag": "Logo/Dell Technologies",
+      "icon": "Dell_Technologies.png"
     },
     {
-      "tag": "Logo - evertrue",
-      "icon": "evertrue.png"
+      "tag": "Logo/EMC+wordmark",
+      "icon": "EMC+wordmark.png"
     },
     {
-      "tag": "Logo - tableau logo",
-      "icon": "tableau-logo.png"
+      "tag": "Logo/Dell+black",
+      "icon": "Dell+black.png"
     },
     {
-      "tag": "Logo - emc wordmark",
-      "icon": "emc-wordmark.png"
+      "tag": "Logo/Firefox",
+      "icon": "Firefox.png"
     },
     {
-      "tag": "Logo - dell",
-      "icon": "dell.png"
+      "tag": "Logo/EMC",
+      "icon": "EMC.png"
     },
     {
-      "tag": "Logo - firefox",
-      "icon": "firefox.png"
+      "tag": "Logo/Tenable+icon",
+      "icon": "Tenable+icon.png"
     },
     {
-      "tag": "Logo - emc",
-      "icon": "emc.png"
+      "tag": "Logo/Dell",
+      "icon": "Dell.png"
     },
     {
-      "tag": "Logo - dell icon",
-      "icon": "dell-icon.png"
+      "tag": "Logo/Dell+Icon",
+      "icon": "Dell+Icon.png"
     }
   ]
 }
