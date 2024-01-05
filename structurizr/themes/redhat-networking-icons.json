@@ -9,6 +9,10 @@
     {
       "tag": "RedHat Networking - Firewall - Local",
       "icon": "https://raw.githubusercontent.com/Dave-Snigier/hal-diagrams/main/graphics/sets/redhat-networking-icons/firewall_red.svg"
+    },
+    {
+      "tag": "RedHat Networking - Load Balancer",
+      "icon": "https://gitlab.com/axiansdeveloper/networking-icons/-/raw/95dec1068f9ea5000bc4c5dbda0ba043f14b6eb3/load_balancer/load_balancer_pool.svg"
     }
   ]
 }
