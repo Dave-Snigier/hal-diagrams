@@ -23,7 +23,6 @@ def convert_svg_to_png(
     """
     converted_png = cairosvg.svg2png(url=svg_filepath)
     im = Image.open(io.BytesIO(converted_png))  # type: ignore
-    print("hello")
     original_width, original_height = im.size
 
     # Calculate the scale to maintain aspect ratio
@@ -79,6 +78,7 @@ def create_theme_json(
 ) -> None:
     """
     Creates a theme.json file in the Structurizr theme format with the provided image files.
+    Elements are sorted alphabetically by tag for better version control diffs.
 
     :param target: The target directory where theme.json will be written.
     :param prefix: The prefix for the tags in theme.json.
@@ -99,6 +99,9 @@ def create_theme_json(
                 "icon": os.path.join(image_file),
             }
         )
+
+    # Sort elements by tag
+    theme_data["elements"].sort(key=lambda x: x["tag"].lower())
 
     with open(os.path.join(target, "theme.json"), "w", encoding="utf-8") as theme_file:
         json.dump(theme_data, theme_file, indent=2)
