@@ -1,0 +1,3 @@
+[submodule "graphics/sets/rh-networking-icons"]
+	path = graphics/sets/rh-networking-icons
+	url = https://gitlab.com/axiansdeveloper/networking-icons.git
