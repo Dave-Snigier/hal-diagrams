@@ -1,6 +1,7 @@
 """
 Creates a Structurizr theme.json file from a directory of SVG images.
 """
+
 import json
 import os
 import io
@@ -9,6 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import click
 import cairosvg
 from PIL import Image
+
 # from pprint import pprint
 
 
@@ -72,17 +74,21 @@ def process_png_files(source: str, target: str, files: List[str]) -> List[str]:
     return processed_files
 
 
-def create_theme_json(target: str, prefix: str, image_files: List[str]) -> None:
+def create_theme_json(
+    target: str, prefix: str, image_files: List[str], name: str, description: str
+) -> None:
     """
     Creates a theme.json file in the Structurizr theme format with the provided image files.
 
     :param target: The target directory where theme.json will be written.
     :param prefix: The prefix for the tags in theme.json.
     :param image_files: The list of image filenames that have been converted.
+    :param name: The name of the theme.
+    :param description: The description of the theme.
     """
     theme_data = {
-        "name": "Custom Structurizr Theme",
-        "description": "A custom theme for Structurizr",
+        "name": name,
+        "description": description,
         "elements": [],
     }
 
@@ -146,7 +152,21 @@ def convert_images_concurrently(
 )
 @click.option("--width", default=256, type=int, help="Maximum width of the PNG images.")
 @click.option("--prefix", help="Prefix for the tags in theme.json.", required=True)
-def convert(source: str, target: str, height: int, width: int, prefix: str) -> None:
+@click.option("--name", default="Custom Structurizr Theme", help="Name of the theme.")
+@click.option(
+    "--description",
+    default="A custom theme for Structurizr",
+    help="Description of the theme.",
+)
+def convert(
+    source: str,
+    target: str,
+    height: int,
+    width: int,
+    prefix: str,
+    name: str,
+    description: str,
+) -> None:
     """
     Converts all SVG images in the source directory to PNG format
     with the specified size constraints and
@@ -167,7 +187,7 @@ def convert(source: str, target: str, height: int, width: int, prefix: str) -> N
 
     all_files = png_processed_files + converted_files
 
-    create_theme_json(target, prefix, all_files)
+    create_theme_json(target, prefix, all_files, name, description)
 
     click.echo(
         f"Conversion complete. PNG files and theme.json are saved in '{target}'."
