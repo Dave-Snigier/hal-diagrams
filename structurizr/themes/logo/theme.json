@@ -3,8 +3,8 @@
   "description": "A custom theme for Structurizr",
   "elements": [
     {
-      "tag": "logo/netscaler",
-      "icon": "netscaler.png"
+      "tag": "logo/Netscaler",
+      "icon": "Netscaler.png"
     },
     {
       "tag": "logo/Java-JMS",

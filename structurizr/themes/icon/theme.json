@@ -249,6 +249,10 @@
     {
       "tag": "icon/Go+gopher",
       "icon": "Go+gopher.png"
+    },
+    {
+      "tag": "icon/Netscaler",
+      "icon": "Netscaler.png"
     }
   ]
 }
