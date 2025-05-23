@@ -1,0 +1,34 @@
+{
+  "name": "RH Network Icons",
+  "description": "Selection of networking icons from RedHat Ansible",
+  "elements": [
+    {
+      "tag": "rh-network/Bridge",
+      "icon": "Bridge.png"
+    },
+    {
+      "tag": "rh-network/Firewall",
+      "icon": "Firewall.png"
+    },
+    {
+      "tag": "rh-network/Load Balancer",
+      "icon": "Load_Balancer.png"
+    },
+    {
+      "tag": "rh-network/Router",
+      "icon": "Router.png"
+    },
+    {
+      "tag": "rh-network/Server",
+      "icon": "Server.png"
+    },
+    {
+      "tag": "rh-network/Server Rack",
+      "icon": "Server_Rack.png"
+    },
+    {
+      "tag": "rh-network/Switch",
+      "icon": "Switch.png"
+    }
+  ]
+}

@@ -9,7 +9,7 @@ GRAPHICS_DIR := ../graphics
 .PHONY: all
 all: clean-icon icon clean-logo logo
 
-# Build icon themes
+# Build icon theme
 .PHONY: icon
 icon:
 	@echo "Building icon themes..."
@@ -26,7 +26,7 @@ icon:
 		exit 1; \
 	fi
 
-# Build logo themes
+# Build logo theme
 .PHONY: logo
 logo:
 	@echo "Building logo themes..."
@@ -38,6 +38,23 @@ logo:
 			--width 450 \
 			--name "HAL Logo Theme" \
 			--description "Logos, typically wordmarks for diagrams"; \
+	else \
+		echo "Error: structurizr-themerizr directory not found"; \
+		exit 1; \
+	fi
+
+# Build RedHat Networking Icons theme
+.PHONY: rh-network
+rh-network:
+	@echo "Building RedHat Networking Icons theme..."
+	@if [ -d "$(THEMERIZR_DIR)" ]; then \
+		source $(THEMERIZR_DIR)/venv/bin/activate && \
+		python $(THEMERIZR_DIR)/themerizr.py $(GRAPHICS_DIR)/sets/rh-network $(THEMES_DIR)/rh-network \
+			--prefix rh-network \
+			--height 450 \
+			--width 450 \
+			--name "RH Network Icons" \
+			--description "Selection of networking icons from RedHat Ansible"; \
 	else \
 		echo "Error: structurizr-themerizr directory not found"; \
 		exit 1; \
@@ -60,6 +77,17 @@ clean-icon:
 	@if [ -d "$(THEMERIZR_DIR)" ]; then \
 		source $(THEMERIZR_DIR)/venv/bin/activate && \
 		rm $(THEMES_DIR)/icon/*; \
+	else \
+		echo "Error: structurizr-themerizr directory not found"; \
+		exit 1; \
+	fi
+
+.PHONY: clean-rh-network
+clean-rh-network:
+	@echo "Cleaning RedHat Networking Icons directory..."
+	@if [ -d "$(THEMERIZR_DIR)" ]; then \
+		source $(THEMERIZR_DIR)/venv/bin/activate && \
+		rm $(THEMES_DIR)/rh-network/*; \
 	else \
 		echo "Error: structurizr-themerizr directory not found"; \
 		exit 1; \
