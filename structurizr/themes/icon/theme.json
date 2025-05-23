@@ -1,74 +1,118 @@
 {
-  "name": "Custom Structurizr Theme",
-  "description": "A custom theme for Structurizr",
+  "name": "HAL Icon Theme",
+  "description": "Squarish, small icons for diagrams",
   "elements": [
     {
-      "tag": "icon/boomi-platform-integration",
-      "icon": "boomi-platform-integration.png"
+      "tag": "icon/Amazon Linux",
+      "icon": "Amazon_Linux.png"
     },
     {
-      "tag": "icon/Checkpoint",
-      "icon": "Checkpoint.png"
+      "tag": "icon/Anthology",
+      "icon": "Anthology.png"
     },
     {
-      "tag": "icon/Oracle Linux",
-      "icon": "Oracle_Linux.png"
+      "tag": "icon/Bash Shell",
+      "icon": "Bash_Shell.png"
     },
     {
-      "tag": "icon/boomi-platform-data-catalog",
-      "icon": "boomi-platform-data-catalog.png"
-    },
-    {
-      "tag": "icon/boomi-platform-master-data-hub",
-      "icon": "boomi-platform-master-data-hub.png"
-    },
-    {
-      "tag": "icon/KVM",
-      "icon": "KVM.png"
-    },
-    {
-      "tag": "icon/boomi-platform-flow",
-      "icon": "boomi-platform-flow.png"
-    },
-    {
-      "tag": "icon/boomi-platform-b2b-edi",
-      "icon": "boomi-platform-b2b-edi.png"
-    },
-    {
-      "tag": "icon/boomi-platform-api-management",
-      "icon": "boomi-platform-api-management.png"
+      "tag": "icon/Bluetooth",
+      "icon": "Bluetooth.png"
     },
     {
       "tag": "icon/Boomi+icon",
       "icon": "Boomi+icon.png"
     },
     {
-      "tag": "icon/Amazon Linux",
-      "icon": "Amazon_Linux.png"
+      "tag": "icon/boomi-platform-api-management",
+      "icon": "boomi-platform-api-management.png"
     },
     {
-      "tag": "icon/Windows Server 2019",
-      "icon": "Windows_Server_2019.png"
+      "tag": "icon/boomi-platform-b2b-edi",
+      "icon": "boomi-platform-b2b-edi.png"
     },
     {
-      "tag": "icon/Oracle",
-      "icon": "Oracle.png"
+      "tag": "icon/boomi-platform-data-catalog",
+      "icon": "boomi-platform-data-catalog.png"
+    },
+    {
+      "tag": "icon/boomi-platform-flow",
+      "icon": "boomi-platform-flow.png"
+    },
+    {
+      "tag": "icon/boomi-platform-integration",
+      "icon": "boomi-platform-integration.png"
+    },
+    {
+      "tag": "icon/boomi-platform-master-data-hub",
+      "icon": "boomi-platform-master-data-hub.png"
+    },
+    {
+      "tag": "icon/C",
+      "icon": "C.png"
+    },
+    {
+      "tag": "icon/C++",
+      "icon": "C++.png"
+    },
+    {
+      "tag": "icon/CentOS Linux",
+      "icon": "CentOS_Linux.png"
+    },
+    {
+      "tag": "icon/Checkpoint",
+      "icon": "Checkpoint.png"
     },
     {
       "tag": "icon/CoffeeScript",
       "icon": "CoffeeScript.png"
     },
     {
-      "tag": "icon/Vault",
-      "icon": "Vault.png"
+      "tag": "icon/CSS-3",
+      "icon": "CSS-3.png"
     },
     {
-      "tag": "icon/Windows Server 2022",
-      "icon": "Windows_Server_2022.png"
+      "tag": "icon/CSS-3+official",
+      "icon": "CSS-3+official.png"
+    },
+    {
+      "tag": "icon/Debian Linux",
+      "icon": "Debian_Linux.png"
+    },
+    {
+      "tag": "icon/Dell",
+      "icon": "Dell.png"
+    },
+    {
+      "tag": "icon/Fedora Linux",
+      "icon": "Fedora_Linux.png"
     },
     {
       "tag": "icon/FreeBSD",
       "icon": "FreeBSD.png"
+    },
+    {
+      "tag": "icon/GitHub Actions",
+      "icon": "GitHub_Actions.png"
+    },
+    {
+      "tag": "icon/Go",
+      "icon": "Go.png"
+    },
+    {
+      "tag": "icon/Go+gopher",
+      "icon": "Go+gopher.png"
+    },
+    {
+      "tag": "icon/GPG",
+      "icon": "GPG.png"
+    },
+    {
+      "tag": "icon/HTML 5",
+      "icon": "HTML_5.png"
+    },
+    {
+      "tag": "icon/Java",
+      "icon": "Java.png"
     },
     {
       "tag": "icon/Javascript",
@@ -79,180 +123,136 @@
       "icon": "JSON.png"
     },
     {
-      "tag": "icon/Anthology",
-      "icon": "Anthology.png"
-    },
-    {
-      "tag": "icon/Java",
-      "icon": "Java.png"
-    },
-    {
-      "tag": "icon/GitHub Actions",
-      "icon": "GitHub_Actions.png"
-    },
-    {
-      "tag": "icon/PHP+alt",
-      "icon": "PHP+alt.png"
-    },
-    {
-      "tag": "icon/Windows Server",
-      "icon": "Windows_Server.png"
-    },
-    {
-      "tag": "icon/Markdown",
-      "icon": "Markdown.png"
-    },
-    {
-      "tag": "icon/WebSocket",
-      "icon": "WebSocket.png"
-    },
-    {
-      "tag": "icon/Bluetooth",
-      "icon": "Bluetooth.png"
-    },
-    {
-      "tag": "icon/Python",
-      "icon": "Python.png"
-    },
-    {
-      "tag": "icon/Bash Shell",
-      "icon": "Bash_Shell.png"
-    },
-    {
-      "tag": "icon/TypeScript+round",
-      "icon": "TypeScript+round.png"
-    },
-    {
-      "tag": "icon/NodeJS",
-      "icon": "NodeJS.png"
-    },
-    {
-      "tag": "icon/Tableau",
-      "icon": "Tableau.png"
-    },
-    {
-      "tag": "icon/WiFi",
-      "icon": "WiFi.png"
-    },
-    {
-      "tag": "icon/CSS-3+official",
-      "icon": "CSS-3+official.png"
-    },
-    {
-      "tag": "icon/Ruby",
-      "icon": "Ruby.png"
-    },
-    {
-      "tag": "icon/GPG",
-      "icon": "GPG.png"
-    },
-    {
-      "tag": "icon/Terraform",
-      "icon": "Terraform.png"
-    },
-    {
-      "tag": "icon/SVG",
-      "icon": "SVG.png"
-    },
-    {
-      "tag": "icon/Ubuntu Linux",
-      "icon": "Ubuntu_Linux.png"
-    },
-    {
-      "tag": "icon/R",
-      "icon": "R.png"
-    },
-    {
-      "tag": "icon/Debian Linux",
-      "icon": "Debian_Linux.png"
-    },
-    {
-      "tag": "icon/oVirt",
-      "icon": "oVirt.png"
-    },
-    {
-      "tag": "icon/TypeScript",
-      "icon": "TypeScript.png"
-    },
-    {
-      "tag": "icon/Windows",
-      "icon": "Windows.png"
-    },
-    {
-      "tag": "icon/PHP",
-      "icon": "PHP.png"
-    },
-    {
-      "tag": "icon/CSS-3",
-      "icon": "CSS-3.png"
-    },
-    {
-      "tag": "icon/C",
-      "icon": "C.png"
-    },
-    {
-      "tag": "icon/Vagrant",
-      "icon": "Vagrant.png"
+      "tag": "icon/KVM",
+      "icon": "KVM.png"
     },
     {
       "tag": "icon/Linux",
       "icon": "Linux.png"
     },
     {
-      "tag": "icon/TOML",
-      "icon": "TOML.png"
+      "tag": "icon/Loadbalancer.org",
+      "icon": "Loadbalancer.org.png"
     },
     {
-      "tag": "icon/C++",
-      "icon": "C++.png"
-    },
-    {
-      "tag": "icon/Microsoft+icon",
-      "icon": "Microsoft+icon.png"
-    },
-    {
-      "tag": "icon/Windows Server 2016",
-      "icon": "Windows_Server_2016.png"
-    },
-    {
-      "tag": "icon/Windows Server 2012",
-      "icon": "Windows_Server_2012.png"
-    },
-    {
-      "tag": "icon/Go",
-      "icon": "Go.png"
-    },
-    {
-      "tag": "icon/YAML",
-      "icon": "YAML.png"
-    },
-    {
-      "tag": "icon/Fedora Linux",
-      "icon": "Fedora_Linux.png"
+      "tag": "icon/Markdown",
+      "icon": "Markdown.png"
     },
     {
       "tag": "icon/Matter",
       "icon": "Matter.png"
     },
     {
-      "tag": "icon/CentOS Linux",
-      "icon": "CentOS_Linux.png"
+      "tag": "icon/Microsoft+icon",
+      "icon": "Microsoft+icon.png"
     },
     {
-      "tag": "icon/HTML 5",
-      "icon": "HTML_5.png"
+      "tag": "icon/NodeJS",
+      "icon": "NodeJS.png"
     },
     {
-      "tag": "icon/Dell",
-      "icon": "Dell.png"
+      "tag": "icon/Oracle",
+      "icon": "Oracle.png"
     },
     {
-      "tag": "icon/Go+gopher",
-      "icon": "Go+gopher.png"
+      "tag": "icon/Oracle Linux",
+      "icon": "Oracle_Linux.png"
     },
     {
-      "tag": "icon/Netscaler",
-      "icon": "Netscaler.png"
+      "tag": "icon/oVirt",
+      "icon": "oVirt.png"
+    },
+    {
+      "tag": "icon/PHP",
+      "icon": "PHP.png"
+    },
+    {
+      "tag": "icon/PHP+alt",
+      "icon": "PHP+alt.png"
+    },
+    {
+      "tag": "icon/Python",
+      "icon": "Python.png"
+    },
+    {
+      "tag": "icon/R",
+      "icon": "R.png"
+    },
+    {
+      "tag": "icon/Ruby",
+      "icon": "Ruby.png"
+    },
+    {
+      "tag": "icon/SVG",
+      "icon": "SVG.png"
+    },
+    {
+      "tag": "icon/Tableau",
+      "icon": "Tableau.png"
+    },
+    {
+      "tag": "icon/Terraform",
+      "icon": "Terraform.png"
+    },
+    {
+      "tag": "icon/TOML",
+      "icon": "TOML.png"
+    },
+    {
+      "tag": "icon/TypeScript",
+      "icon": "TypeScript.png"
+    },
+    {
+      "tag": "icon/TypeScript+round",
+      "icon": "TypeScript+round.png"
+    },
+    {
+      "tag": "icon/Ubuntu Linux",
+      "icon": "Ubuntu_Linux.png"
+    },
+    {
+      "tag": "icon/Vagrant",
+      "icon": "Vagrant.png"
+    },
+    {
+      "tag": "icon/Vault",
+      "icon": "Vault.png"
+    },
+    {
+      "tag": "icon/WebSocket",
+      "icon": "WebSocket.png"
+    },
+    {
+      "tag": "icon/WiFi",
+      "icon": "WiFi.png"
+    },
+    {
+      "tag": "icon/Windows",
+      "icon": "Windows.png"
+    },
+    {
+      "tag": "icon/Windows Server",
+      "icon": "Windows_Server.png"
+    },
+    {
+      "tag": "icon/Windows Server 2012",
+      "icon": "Windows_Server_2012.png"
+    },
+    {
+      "tag": "icon/Windows Server 2016",
+      "icon": "Windows_Server_2016.png"
+    },
+    {
+      "tag": "icon/Windows Server 2019",
+      "icon": "Windows_Server_2019.png"
+    },
+    {
+      "tag": "icon/Windows Server 2022",
+      "icon": "Windows_Server_2022.png"
+    },
+    {
+      "tag": "icon/YAML",
+      "icon": "YAML.png"
     }
   ]
 }
