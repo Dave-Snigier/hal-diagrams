@@ -87,6 +87,10 @@
       "icon": "Gravyty.png"
     },
     {
+      "tag": "logo/Infoblox",
+      "icon": "Infoblox.png"
+    },
+    {
       "tag": "logo/Isilon",
       "icon": "Isilon.png"
     },

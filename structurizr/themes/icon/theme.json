@@ -3,6 +3,10 @@
   "description": "Squarish, small icons for diagrams",
   "elements": [
     {
+      "tag": "icon/Akamai",
+      "icon": "Akamai.png"
+    },
+    {
       "tag": "icon/Amazon Linux",
       "icon": "Amazon_Linux.png"
     },
@@ -109,6 +113,10 @@
     {
       "tag": "icon/HTML 5",
       "icon": "HTML_5.png"
+    },
+    {
+      "tag": "icon/Infoblox",
+      "icon": "Infoblox.png"
     },
     {
       "tag": "icon/Java",
