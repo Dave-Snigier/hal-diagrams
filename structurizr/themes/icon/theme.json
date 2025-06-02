@@ -87,6 +87,10 @@
       "icon": "Dell.png"
     },
     {
+      "tag": "icon/Dell Technologies",
+      "icon": "Dell_Technologies.png"
+    },
+    {
       "tag": "icon/Fedora Linux",
       "icon": "Fedora_Linux.png"
     },
@@ -149,6 +153,10 @@
     {
       "tag": "icon/Matter",
       "icon": "Matter.png"
+    },
+    {
+      "tag": "icon/Microsoft SQL Server",
+      "icon": "Microsoft_SQL_Server.png"
     },
     {
       "tag": "icon/Microsoft+icon",

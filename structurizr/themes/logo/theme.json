@@ -139,6 +139,10 @@
       "icon": "Microsoft_IIS.png"
     },
     {
+      "tag": "logo/Microsoft SQL Server",
+      "icon": "Microsoft_SQL_Server.png"
+    },
+    {
       "tag": "logo/Netscaler",
       "icon": "Netscaler.png"
     },
