@@ -34,7 +34,7 @@ logo:
 		source $(THEMERIZR_DIR)/venv/bin/activate && \
 		python $(THEMERIZR_DIR)/themerizr.py $(GRAPHICS_DIR)/custom/logo $(THEMES_DIR)/logo \
 			--prefix logo \
-			--height 450 \
+			--height 200 \
 			--width 450 \
 			--name "HAL Logo Theme" \
 			--description "Logos, typically wordmarks for diagrams"; \
