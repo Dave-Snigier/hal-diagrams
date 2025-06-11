@@ -155,6 +155,10 @@
       "icon": "Matter.png"
     },
     {
+      "tag": "icon/Microsoft 365",
+      "icon": "Microsoft_365.png"
+    },
+    {
       "tag": "icon/Microsoft SQL Server",
       "icon": "Microsoft_SQL_Server.png"
     },
@@ -177,6 +181,10 @@
     {
       "tag": "icon/Oracle Linux",
       "icon": "Oracle_Linux.png"
+    },
+    {
+      "tag": "icon/Outlook",
+      "icon": "Outlook.png"
     },
     {
       "tag": "icon/oVirt",
