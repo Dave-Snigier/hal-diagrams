@@ -219,6 +219,10 @@
       "icon": "Ruby.png"
     },
     {
+      "tag": "icon/Softdocs",
+      "icon": "Softdocs.png"
+    },
+    {
       "tag": "icon/SVG",
       "icon": "SVG.png"
     },

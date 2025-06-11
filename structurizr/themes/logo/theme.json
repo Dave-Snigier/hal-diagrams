@@ -219,6 +219,10 @@
       "icon": "SmartBear_AlertSite.png"
     },
     {
+      "tag": "logo/Softdocs",
+      "icon": "Softdocs.png"
+    },
+    {
       "tag": "logo/Tableau",
       "icon": "Tableau.png"
     },
