@@ -35,7 +35,7 @@ logo:
 		python $(THEMERIZR_DIR)/themerizr.py $(GRAPHICS_DIR)/custom/logo $(THEMES_DIR)/logo \
 			--prefix logo \
 			--height 200 \
-			--width 450 \
+			--width 400 \
 			--name "HAL Logo Theme" \
 			--description "Logos, typically wordmarks for diagrams"; \
 	else \
