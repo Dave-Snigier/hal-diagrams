@@ -43,6 +43,22 @@
       "icon": "Checkpoint.png"
     },
     {
+      "tag": "logo/Datadog",
+      "icon": "Datadog.png"
+    },
+    {
+      "tag": "logo/Datadog+dark",
+      "icon": "Datadog+dark.png"
+    },
+    {
+      "tag": "logo/Datadog+horizontal",
+      "icon": "Datadog+horizontal.png"
+    },
+    {
+      "tag": "logo/Datadog+horizontal+dark",
+      "icon": "Datadog+horizontal+dark.png"
+    },
+    {
       "tag": "logo/Dell",
       "icon": "Dell.png"
     },

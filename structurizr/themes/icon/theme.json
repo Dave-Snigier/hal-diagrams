@@ -79,6 +79,14 @@
       "icon": "CSS-3+official.png"
     },
     {
+      "tag": "icon/Datadog",
+      "icon": "Datadog.png"
+    },
+    {
+      "tag": "icon/Datadog+dark",
+      "icon": "Datadog+dark.png"
+    },
+    {
       "tag": "icon/Debian Linux",
       "icon": "Debian_Linux.png"
     },
